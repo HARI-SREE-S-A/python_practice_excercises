@@ -14,4 +14,11 @@ def avg(n):
 
 
 l = []
+for i,n in enumerate(number):
+  l.append(avg(numbers))
+max_avg = max(l)
+index_max = l.index(max_avg)
+
+return(max_avg,number[index_max]
+    
 
