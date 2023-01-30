@@ -8,5 +8,7 @@ except sqlite3.Error as error:
   print("not connected",error)
 
 finally:
-  connect.dis
+  if connect:
+    connect.close()
+    print("connection closed")
 
