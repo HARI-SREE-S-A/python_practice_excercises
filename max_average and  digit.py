@@ -10,7 +10,6 @@ def avg(n):
     s += n%10
     n = n // 10
   return(s)
-
 l = []
 for i,n in enumerate(number):
   l.append(avg(numbers))
