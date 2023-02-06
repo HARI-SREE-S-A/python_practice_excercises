@@ -6,7 +6,6 @@ try:
   print("connected")
 except sqlite3.Error as error:
   print("not connected",error)
-
 finally:
   if connect:
     connect.close()
