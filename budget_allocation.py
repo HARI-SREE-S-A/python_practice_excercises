@@ -3,7 +3,7 @@ nums = [1,2,3,4,5,6]
 target = 9
 new = sorted(nums)
 list = []
-
+f
 
 for i,n in enumerate(nums):
 	l = 1
