@@ -4,7 +4,7 @@ target = 9
 new = sorted(nums)
 list = []
 
-h
+
 for i,n in enumerate(nums):
 	l = 1
 	r = len(nums)-1
