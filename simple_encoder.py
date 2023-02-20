@@ -5,4 +5,7 @@ def encrypt(c):
   for w in c:
     n = ref.index(w)
     s = n + 4
+    b = ref[s]
+    l.append(b)
+  return("".join(l))
 
