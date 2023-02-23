@@ -4,7 +4,10 @@ v = d["b"]
 v
 
 
+
+
 //finding value sums
+
 
 
 
@@ -22,6 +25,7 @@ v
 d = {"a":1,"b":2,"c":3}
 d["d"] = 4
 d
+
 
 
 // taking values and operating
