@@ -5,7 +5,6 @@ v
 
 
 
-
 //finding value sums
 
 
