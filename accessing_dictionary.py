@@ -3,7 +3,6 @@ v = d["b"]
 
 v
 
-
 //finding value sums
 
 
