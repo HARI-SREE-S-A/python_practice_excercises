@@ -24,5 +24,6 @@ for i,n in enumerate(nums):
 			while new[l] == new[l-1] and l < r:
 
 				l += 1
+
 return(list)	
   
