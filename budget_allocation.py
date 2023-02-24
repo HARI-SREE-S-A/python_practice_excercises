@@ -20,6 +20,7 @@ for i,n in enumerate(nums):
 			list.append([n,new[l],new[r]])
 			l += 1
 			while new[l] == new[l-1] and l < r:
+
 				l += 1
 return(list)	
   
