@@ -4,5 +4,6 @@ l =[]
 for n in num:
   l.append(int(n))
 
+  
 return(l)
   
