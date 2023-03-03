@@ -4,7 +4,6 @@ t = 1
 
 for n in nums:
   prod  = (prod*n)%(10**9 + 7)
-
-  
+ 
 print(prod)
   
