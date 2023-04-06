@@ -3,6 +3,6 @@ count = 0
 for p in range(nums[0],nums[1]+1):
   if p % nums[2] == 0:
   
-  asaaaaaa
+  asaaaaa
   count += 1
 return count
