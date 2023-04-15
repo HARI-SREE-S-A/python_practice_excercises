@@ -4,7 +4,7 @@ for p in range(nums[0],nums[1]+1):
   if p % nums[2] == 0:
            
       
-      ggggg
+      gggggg
             
   count += 1
 return count
