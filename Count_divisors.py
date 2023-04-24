@@ -5,8 +5,7 @@ for p in range(nums[0],nums[1]+1):
 
     
      
-   
-  
+     
   
     
   count += 1
