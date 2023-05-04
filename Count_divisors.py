@@ -3,7 +3,7 @@ count = 0
 for p in range(nums[0],nums[1]+1):
   if p % nums[2] == 0:                      
  ss
-sssss
+ssssss
 
 
   count += 1
