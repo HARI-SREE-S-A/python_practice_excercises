@@ -8,12 +8,12 @@ for name in nm:
 
 
     with open(name + ".txt", "r") as f:
-        print(f.read().strip("\n"))
-        if (f.read().strip("\n")) in py:
+        m = (f.read().strip("\n"))
+        if m in py:
             print("hi")
-            lisst.append(f.read().strip("\n"))
+            lisst.append(m)
         else:
             continue
+        f.close()
 
 print(lisst)
-
