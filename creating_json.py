@@ -11,3 +11,7 @@ with open("testjason.json","w") as f:
     f.close()
 
 print(d)
+
+###############################################################
+with open("company1.json", "w") as file:
+    json.dump(d, file, indent=4)
