@@ -5,6 +5,7 @@ for letters in string.ascii_uppercase:
 
 
 
+
  ############# printing all alphabets as a list
 
 import string
