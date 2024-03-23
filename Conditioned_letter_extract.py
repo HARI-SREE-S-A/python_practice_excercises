@@ -1,5 +1,6 @@
 import string
 
+
 nm = string.ascii_lowercase[::1]
 lisst = []
 py = ["p", "y", "t", "h", "o", "n"]
